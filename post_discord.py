@@ -21,7 +21,7 @@ def send_message():
     senders = [
         {
             "username": "シャドウミストレス優子",
-            "avatar_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/g/gumitan_com/20220528/20220528075840.jpg",
+            "avatar_url": "https://www.tbs.co.jp/anime/machikado/character/img/chara_nav_01@2x.png",
             "content": "人が...通りました☆ :peach: ",
         },
         {
