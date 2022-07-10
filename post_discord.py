@@ -66,7 +66,7 @@ def get_senser():
 
 
 if __name__ == "__main__":
-    with Serial('COM10', 115200, timeout=0.1) as s:
+    with Serial('COM'+sensiteve_data["port"], 115200, timeout=0.1) as s:
         ser = s
         while True:
             get_senser()
